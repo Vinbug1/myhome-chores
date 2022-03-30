@@ -1,0 +1,74 @@
+[
+  {
+    "_id": {
+      "$oid": "5f15d8852a025143f9593a7c"
+    },
+      "name": "House Help",
+      "description":"Personel is responsible for cooking and cleaning the house ",
+      "address":"New York",
+      "duration":"6 months",
+      "budget": "8000.00",
+      "cost":"100",
+      "status":"Pending",
+      "user":{
+        "$oid":"5f15d5b7cb4a6642bddc3n3"
+      }
+    },
+  {
+    "_id": {
+      "$oid": "5f15d92ee520d44421ed8e9b"
+    },
+      "name": "Gardner",
+      "description":"Triming of flours,weeding and garden maintainance",
+      "address":"USA",
+      "duration":"5 years",
+      "budget": "50,000",
+      "cost":"200",
+      "status":"Taken",
+    "user": {
+      "$oid": "5f15d5b7cb4a6642bc0fe8dd"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f15d964e520d44421ed8e9c"
+    },
+     "name": "Security",
+      "description":"Ensure that lifes and properties of the organization is well protected",
+      "address":"Spain",
+      "duration":"25 years",
+      "budget": "1,000,000.00",
+      "cost":"5,000",
+      "status":"Pending",
+    "user": {
+      "$oid": "5f15d5b76642bddc0fe8cb4a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f15d9b3e520d44421ed8e9d"
+    },
+      "name": "Chef",
+      "description":" ensure that every meal prepared,served on clean dish",
+      "address":"Spain",
+      "duration":"35 years",
+      "budget": "3,000,000.00",
+      "cost":"3,000",
+      "status":"Pending",
+    "user": {
+      "$oid": "5f15d5b7cb4a62bddc0fe864"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f15da13e520d44421ed8e9e"
+    },
+     "name": "BabySitter",
+      "description":"Ensure every child is well taken care",
+      "address":"Lagos",
+      "duration":"5 years",
+      "budget": "800,000.00",
+      "cost":"40,000",
+      "status":"Taken",
+      "$oid": "5f15d5b2cb4a6642bddc0fe7" }
+    ]
